@@ -1,0 +1,12 @@
+/* It is recommended to place all your extra/additional CSS rules here */
+
+
+.main-btn {
+    display:inline-block; 
+    margin: 0 20px;
+}
+
+.img-insert {
+    height: 75%;
+    width: 75%;
+}
